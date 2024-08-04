@@ -21,7 +21,7 @@ const App = () => {
           <SafeAreaView className="flex-1 px-1 justify-between">
             <View>
               <Text className="text-center text-white font-bold text-4xl">
-                Simple Meditation
+                Meditation buddy
               </Text>
               <Text className="text-center text-white text-2xl mt-3">
                 Simplifying Medidation for Everyone

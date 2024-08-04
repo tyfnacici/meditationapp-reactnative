@@ -23,6 +23,7 @@ const Meditate = () => {
 
     if (secondsRemaining === 0) {
       setMeditating(false)
+      audioSound?.unloadAsync()
       return
     }
 
